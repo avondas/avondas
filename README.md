@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Avienda</h1>
 <h3 align="center">A passionate software engineer from the Netherlands</h3>
 
-<h3 align="center">I'm a software engineer that likes to learn new things and build stuff.</h3>
+<h3 align="center">:technologist:I'm a software engineer that likes to learn new things and build stuff.</h3>
 <h3 align="center">Currently a Computer Science student at the Rotterdam University of Applied Sciences.</h3>
 
 Right now I'm learning ML through Python with [Space Science with Python.](https://www.youtube.com/@Astroniz) Which combines my will to learn more and my interest in space.
