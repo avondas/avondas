@@ -1,6 +1,6 @@
 <h1 align="center">👩‍💻Hi I'm Avienda</h1>
 
-I'm a software engineer that likes to learn new things and build stuff. I currently am a Computre Science student at the Rotterdam University of Applied Sciences. Trying new languages and building projects is what I enjoy and finding a workplace that can facilitate my thirst for knowledge is my goal.
+I'm a software engineer that likes to learn new things and build stuff. I currently am a Computer Science student at the Rotterdam University of Applied Sciences. Trying new languages and building projects is what I enjoy and finding a workplace that can facilitate my thirst for knowledge is my goal.
 
 📖Right now I'm learning ML through Python with [Space Science with Python.](https://www.youtube.com/@Astroniz)
 
