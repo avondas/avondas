@@ -1,10 +1,10 @@
-<h1 align="center">👩‍💻:Hi I'm Avienda</h1>
+<h1 align="center">👩‍💻Hi I'm Avienda</h1>
 
 I'm a software engineer that likes to learn new things and build stuff. I currently am a Computre Science student at the Rotterdam University of Applied Sciences. Trying new languages and building projects is what I enjoy and finding a workplace that can facilitate my thirst for knowledge is my goal.
 
 📖:Right now I'm learning ML through Python with [Space Science with Python.](https://www.youtube.com/@Astroniz)
 
-<h3 align="left">💻:Languages and Tools</h3>
+<h3 align="left">💻Languages and Tools</h3>
 <!-- Frontend -->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -28,7 +28,7 @@ I'm a software engineer that likes to learn new things and build stuff. I curren
           
 <br />
 
-<h3 align="left">📝:My programming story</h3>
+<h3 align="left">📝My programming story</h3>
 <p align="left">
 It started in middle school, for my course package we had a new option to choose from: Computer Science. I had always been curious about how certain things came to be, from websites to apps to games. This was a way to find out and see if I liked it. And thus my journey to becoming a programmer had begun.<br>
 After those two years learning the basics of website building and how to use a database, I realized that it was quite fun. It was a massive puzzle, and I wanted more. And so I started my study to become a Software Engineer.<br>
