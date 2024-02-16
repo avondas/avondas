@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Avienda</h1>
-<h3 align="center">:netherlands:A passionate software engineer from the Netherlands</h3>
+<h3 align="center">A passionate software engineer from the Netherlands</h3>
 
 <h3 align="center">:technologist:I'm a software engineer that likes to learn new things and build stuff.</h3>
 <h3 align="center">Currently a Computer Science student at the Rotterdam University of Applied Sciences.</h3>
@@ -12,5 +12,7 @@ Right now I'm learning ML through Python with [Space Science with Python.](https
 <h3 align="left">My programming story</h3>
 <p align="left">
 It started in middle school, for my course package we had a new option to choose from: Computer Science. I had always been curious about how certain things came to be, from websites to apps to games. This was a way to find out and see if I liked it. And thus my journey to becoming a programmer had begun.<br>
-After those two years learning the basics of website building and how to use a database, I realized that it was quite fun. It was a massive puzzle, and I wanted more. And so I started my study to become a Software Engineer.
+After those two years learning the basics of website building and how to use a database, I realized that it was quite fun. It was a massive puzzle, and I wanted more. And so I started my study to become a Software Engineer.<br>
+I truly enjoy learning new things, I have tried out several languages just to see how it works and if I'd like to learn more, even if it sometimes means throwing what I have learned during these past years of study out the window. <br>
+Yes programming can be difficult and I have banged my head against my keyboard many times, but the thrill of finally figuring out the problem or the sudden understanding of what an algorithm is supposed to do is all worth it. I can't wait to see what's next on this journey.
 </p>
