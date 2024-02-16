@@ -4,6 +4,8 @@ I'm a software engineer that likes to learn new things and build stuff. I curren
 
 📖:Right now I'm learning ML through Python with [Space Science with Python.](https://www.youtube.com/@Astroniz)
 
+---
+
 <h3 align="left">💻Languages and Tools</h3>
 <!-- Frontend -->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -27,6 +29,8 @@ I'm a software engineer that likes to learn new things and build stuff. I curren
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
           
 <br />
+
+#
 
 <h3 align="left">📝My programming story</h3>
 <p align="left">
